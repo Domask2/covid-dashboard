@@ -36,5 +36,5 @@ https://rolling-scopes-school.github.io/m1t9-JS2020Q3/covid-dashboard/
 <code><img alt="Webpack" height="40px" src="https://cdn.svgporn.com/logos/webpack.svg" /></code>
 <code><img alt="Eslint" height="40px" src="https://cdn.svgporn.com/logos/eslint.svg" /></code>
 <code><img alt="Eslint" height="40px" src="https://cdn.svgporn.com/logos/leaflet.svg" /></code>
-<code><img alt="Chartjs" height="40px" src="https://camo.githubusercontent.com/c436853d386e73b3dd070b206e5368e6c6922ff620003958a8602e38333c1c2c/68747470733a2f2f7777772e63686172746a732e6f72672f696d672f63686172746a732d6c6f676f2e737667" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" style="max-width:100%;"> /></code>
+<code><img alt="Chartjs" height="40px" src="https://camo.githubusercontent.com/c436853d386e73b3dd070b206e5368e6c6922ff620003958a8602e38333c1c2c/68747470733a2f2f7777772e63686172746a732e6f72672f696d672f63686172746a732d6c6f676f2e737667" data-canonical-src="https://www.chartjs.org/img/chartjs-logo.svg" style="max-width:100%;"></code>
 </p>
